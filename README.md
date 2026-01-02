@@ -1,8 +1,4 @@
-  <img src="https://readme-typing-svg.demolab.com?font=Finger+Paint&size=75&duration=1000&pause=1000&color=002AF7&background=FFD30000&width=2000&height=200&lines=Panzoid;Programming+i+think" alt="Panzoid">
-  <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python  " alt="Python">
-</p>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Finger+Paint&size=200&duration=1000&pause=1000&color=3900F7&center=true&width=2000&height=500&lines=Panzoid;%F0%9F%92%BBCoding;%F0%9F%92%A1Thinking)](https://git.io/typing-svg)
 
 # Добро пожаловать на мой GitHub! 👋
 
