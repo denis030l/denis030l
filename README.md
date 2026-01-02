@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Finger+Paint&size=75&duration=1000&pause=1000&color=002AF7&background=FFD30000&width=2000&height=200&lines=Panzoid;Programming+i+think)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Finger+Paint&size=75&duration=1000&pause=1000&color=002AF7&background=FFD30000&width=2000&height=200&lines=Panzoid;Programming+i+think" alt="Panzoid">
+</p>
 # Добро пожаловать на мой GitHub! 👋
 
 Привет! Здесь скоро появятся мои проекты и различные разработки. В будущем вы найдете репозитории, посвященные:
