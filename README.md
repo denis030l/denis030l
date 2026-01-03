@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=200&duration=1000&pause=1000&color=3900F7&center=true&width=2000&height=500&lines=Panzoid;%F0%9F%92%BBCoding;%F0%9F%92%A1Thinking)](https://git.io/typing-svg)
 
 # Приветствую👋
-
 > [!NOTE]
 > Здесь — мои проекты по **разработке**, **автоматизации** и практической **кибербезопасности (CTF)**. Репозитории постепенно пополняются.
-
 ---
 
 ## ⚡ Чем занимаюсь
@@ -56,4 +54,4 @@
    - что изменилось для пользователя
 
 ---
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif)
