@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Finger+Paint&size=200&duration=1000&pause=1000&color=3900F7&center=true&width=2000&height=500&lines=Panzoid;%F0%9F%92%BBCoding;%F0%9F%92%A1Thinking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=200&duration=1000&pause=1000&color=3900F7&center=true&width=2000&height=500&lines=Panzoid;%F0%9F%92%BBCoding;%F0%9F%92%A1Thinking)](https://git.io/typing-svg)
 
 # Приветствую👋
 
