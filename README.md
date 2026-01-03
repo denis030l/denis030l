@@ -53,5 +53,5 @@
    - что изменилось для пользователя
 
 ---
-Спасибо за просмотр!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=50&pause=1000&color=02E153&center=true&vCenter=true&width=650&height=100&lines=%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE+%D0%B7%D0%B0+%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80!)](https://git.io/typing-svg)
 ![](https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif)
