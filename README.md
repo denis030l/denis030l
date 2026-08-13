@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=100&duration=1000&pause=1000&color=3900F7&center=true&width=1000&height=250&lines=Panzoid;%F0%9F%92%BBCoding;%F0%9F%92%A1Thinking)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&duration=3000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=400&height=50&lines=Hello,;World!;Welcome;to+my+profile!)
 
 # Приветствую👋
 > [!NOTE]
